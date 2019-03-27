@@ -18,7 +18,8 @@ class Solution:
                 len_str = str(length)
                 chars[start+1:start+ len(len_str) + 1] = len_str
                 start += len(len_str)
-            start, i = start + 1, i + 1
+            # start, i = start + 1, i + 1
+            i += 1
         return start
 s = Solution()
 print(s.compress(["a", "a", "b", "b", "c", "c", "c"]))
