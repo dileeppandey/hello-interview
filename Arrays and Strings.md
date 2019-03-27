@@ -1,11 +1,8 @@
 # Arrays and Strings
 
 * Maximum difference in an array:
-    * Given an unsorted array, find the maximum difference between the successive elements in its sorted form. [Leetcode](https://leetcode.com/problems/maximum-gap/)
-* Compress a given string with Run Length Encoding. [Leetcode](https://leetcode.com/problems/string-compression/)
-
-        input:"WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW" 
-        output: "12W1B12W3B24W1B14W"
+    * Given an unsorted array, find the maximum difference between the successive elements in its sorted form. [[Leetcode](https://leetcode.com/problems/maximum-gap/)] [[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/MaximumGap.py)]
+* Compress a given string with Run Length Encoding. [[Leetcode](https://leetcode.com/problems/string-compression/)][[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/StringCompression.py)]
 * Find an element in a sorted array of infinite size.
 * Remove duplicates from a string. Do it in-place.
 * Add two numbers represented as array.
@@ -37,4 +34,4 @@
 * Kth-largest element 
     * in an unsorted array
     * in two sorted arrays
-* First  Missing Positive [Leetcode](https://leetcode.com/problems/first-missing-positive/)
+* First  Missing Positive [[Leetcode](https://leetcode.com/problems/first-missing-positive/)] [[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/FirstMissingPositive.py)] 
