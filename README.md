@@ -12,6 +12,8 @@
 
 ## [Greedy](https://github.com/dileeppandey/hello-interview/blob/master/Greedy.md)
 
+## [Hashing] (https://github.com/dileeppandey/hello-interview/blob/master/Hashing.md)
+
 ## [Linked List](https://github.com/dileeppandey/hello-interview/blob/master/Linked%20List.md)
 
 ## [Meet in the Middle](https://github.com/dileeppandey/hello-interview/blob/master/Meet%20in%20the%20Middle.md)
