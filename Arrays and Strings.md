@@ -1,7 +1,8 @@
-# Array and Strings
+# Arrays and Strings
 
-* Find two elements of an array with maximum difference between them efficiently. 
-* Compress a given string with Run Length Encoding.
+* Maximum difference in an array:
+    * Given an unsorted array, find the maximum difference between the successive elements in its sorted form. [Leetcode](https://leetcode.com/problems/maximum-gap/)
+* Compress a given string with Run Length Encoding. [Leetcode](https://leetcode.com/problems/string-compression/)
 
         input:"WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW" 
         output: "12W1B12W3B24W1B14W"
@@ -36,3 +37,4 @@
 * Kth-largest element 
     * in an unsorted array
     * in two sorted arrays
+* First  Missing Positive [Leetcode](https://leetcode.com/problems/first-missing-positive/)
