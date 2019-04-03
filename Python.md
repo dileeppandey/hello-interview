@@ -28,7 +28,7 @@ Python provides Queue class in collections library for working with Queue.
 
 `lifo_Q = queue.LifoQueue()` // lifo_Q is a LIFO Queue
 
-`PQ = queue.PriorityQueue()` // Uses heapq module maintaining priority of elements
+`PQ = queue.PriorityQueue()` // Uses heapq module to maintain priority of elements
 
 
 | Operation | Function | Description |
@@ -45,15 +45,16 @@ k### Priority Queue using `heap`
 To create a list, use a list initialized to `[]`, or call `heapify` on a list to transform it into a heap.
 
 `from collections import heap`
+
 | Operation | Function | Description |
 | --------- | -------- | ----------- |
-| PUSH | `heapq.heappush(heap, item)` | Push the value item onto the heap, maintaining the heap invariant.
-| POP |  `heapq.heappop(heap)` | Pop and return the smallest element from the heap, maintaining the heap invariant.
+| PUSH | `heapq.heappush(heap, item)` | Push the value item onto the heap, maintaining the heap invariant. |
+| POP |  `heapq.heappop(heap)` | Pop and return the smallest element from the heap, maintaining the heap invariant. |
 | PEEK | | Access smallest element using `heap[0]` |
 | N SMALLEST | `heapq.nsmallest(n, iterable[, key])` | Return a list with the n smallest elements from the dataset defined by iterable.  |
 | N LARGEST | `heapq.nlargest(n, iterable[, key])` | Return a list with the n largest elements from the dataset defined by iterable. |
-| PUSHPOP | `heapq.pushpop(heap, item)`  | Push item to the heap, then pop and return the smallest item. More efficient than  heappush() followed by heappop().
-| HEAPIFY |  `heapq.heapify(x)`   | Transform list x into a heap, in-place and in linear time.
+| PUSHPOP | `heapq.pushpop(heap, item)`  | Push item to the heap, then pop and return the smallest item. More efficient than  heappush() followed by heappop(). |
+| HEAPIFY |  `heapq.heapify(x)`   | Transform list x into a heap, in-place and in linear time. |
 | HEAPREPLACE | `heapq.heapreplace(heap, item)` | Pop and return the smallest item from the heap and also push the new item. Heap size unchanged. `IndexError` if heap is empty |
 
 ### Deque
