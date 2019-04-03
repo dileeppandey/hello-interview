@@ -35,4 +35,4 @@
     * in an unsorted array
     * in two sorted arrays
 * First  Missing Positive [[Leetcode](https://leetcode.com/problems/first-missing-positive/)] [[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/FirstMissingPositive.py)] 
-* Longest substring without repeating character [[Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters)] [[Solution]()]
+* Longest substring without repeating character [[Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters)] [[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/LongestSubstringWithoutRepeating.py)]
