@@ -1,22 +1,31 @@
 """
 https://leetcode.com/problems/coin-change/
 """
+from sys import maxsize
+
 
 class Solution:
-    def coinChangeMin(self, coins, amount, known):
-        minCoins = amount
-        if amount in coins:
-            known[amount] = 1
-            return 1
-            
-        elif amount in known and known[amount] > 0:
-            return known[amount]
+    def coinChangeMin(self, coins, amount, tbl):
+        if amount == 0:
+            return 0
+        
+        if amount in tbl:
+            return tbl[amount]
 
-        else:
-            for i in [c for c in coins if c <= amount]:
-                minCoins = min(minCoins, 1 + self.coinChangeMin(coins, amount - i, known))
-                known[amount] = minCoins
-        return minCoins
+        minCount = maxsize
+
+        for i in range(len(coins)):
+            if coins[i] > amount:
+                continue
+            minCount = min(minCount, self.coinChangeMin(coins, amount - coins[i], tbl))
+
+        minCount = (minCount if minCount == maxsize else minCount + 1)
+        tbl[amount] = minCount
+        return minCount
 
     def coinChange(self, coins, amount):
-        return self.coinChangeMin(coins, amount, {})
+        minCount = self.coinChangeMin(coins, amount, {})
+        return -1 if minCount == maxsize else minCount
+
+s = Solution()
+print(s.coinChange([1,2,5], 11))        
