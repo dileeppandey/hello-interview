@@ -44,8 +44,9 @@ class Test(ut.TestCase):
     def test_search(self):
         trie = Trie()
         trie.insert("word")
+        trie.insert("world")
         self.assertEqual(trie.search("word"), True)
-        self.assertEqual(trie.search("world"), False)
+        self.assertEqual(trie.search("world"), True)
 
 
 if __name__ == "__main__":

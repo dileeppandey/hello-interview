@@ -22,3 +22,4 @@
 ## Questions
 
 * Design an ATM.
+* Design a Parking Lot

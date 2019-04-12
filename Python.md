@@ -40,7 +40,9 @@ Python provides Queue class in collections library for working with Queue.
 | GET | `Q.get()` | Remove and return item from the queue.|
 
 
-k### Priority Queue using `heap`
+### Priority Queue using `heap`
+
+Heaps are arrays for which `heap[k] <= heap[2*k+1] and heap[k] <= heap[2*k+2]` for all `k`, counting elements from zero. For the sake of comparison, non-existing elements are considered to be infinite. The interesting property of a heap is that `heap[0]` is always its **smallest** element.
 
 To create a list, use a list initialized to `[]`, or call `heapify` on a list to transform it into a heap.
 
