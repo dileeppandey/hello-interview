@@ -1,5 +1,6 @@
 """
 BFS traversal of a graph
+Credit: https://courses.csail.mit.edu/6.006/fall11/rec/rec13.pdf
 """
 from collections import deque, OrderedDict
 
