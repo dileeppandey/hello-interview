@@ -2,34 +2,34 @@
 
 *Unique Conceptual Problems for Interviews.*
 
-#### [Arrays and Strings](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings.md)
+#### [Arrays and Strings](https://github.com/dileeppandey/hello-interview/tree/master/Arrays%20and%20Strings)
 
-#### [Backtracking](https://github.com/dileeppandey/hello-interview/blob/master/Backtracking.md)
+#### [Backtracking](https://github.com/dileeppandey/hello-interview/tree/master/Backtracking)
 
-#### [Dynamic Programming](https://github.com/dileeppandey/hello-interview/blob/master/Dynamic%20Programming.md)
+#### [Dynamic Programming](https://github.com/dileeppandey/hello-interview/tree/master/Dynamic%20Programming)
 
-#### [Graph](https://github.com/dileeppandey/hello-interview/blob/master/Graph.md)
+#### [Graph](https://github.com/dileeppandey/hello-interview/tree/master/Graph)
 
-#### [Greedy](https://github.com/dileeppandey/hello-interview/blob/master/Greedy.md)
+#### [Greedy](https://github.com/dileeppandey/hello-interview/tree/master/Greedy)
 
-#### [Hashing](https://github.com/dileeppandey/hello-interview/blob/master/Hashing.md)
+#### [Hashing](https://github.com/dileeppandey/hello-interview/tree/master/Hashing)
 
-#### [Linked List](https://github.com/dileeppandey/hello-interview/blob/master/Linked%20List.md)
+#### [Linked List](https://github.com/dileeppandey/hello-interview/tree/master/Linked%20List)
 
-#### [Meet in the Middle](https://github.com/dileeppandey/hello-interview/blob/master/Meet%20in%20the%20Middle.md)
+#### [Meet in the Middle](https://github.com/dileeppandey/hello-interview/tree/master/Meet%20in%20the%20Middle)
 
-#### [Object Oriented Design](https://github.com/dileeppandey/hello-interview/blob/master/Object%20Oriented%20Design.md)
+#### [Object Oriented Design](https://github.com/dileeppandey/hello-interview/tree/master/Object%20Oriented%20Design)
 
-#### [Queues](https://github.com/dileeppandey/hello-interview/blob/master/Queues.md)
+#### [Queues](https://github.com/dileeppandey/hello-interview/tree/master/Queues)
 
-#### [Recursion](https://github.com/dileeppandey/hello-interview/blob/master/Recursion.md)
+#### [Recursion](https://github.com/dileeppandey/hello-interview/tree/master/Recursion)
 
-#### [Sliding Window](https://github.com/dileeppandey/hello-interview/blob/master/Sliding%20Window.md)
+#### [Sliding Window](https://github.com/dileeppandey/hello-interview/tree/master/Sliding%20Window)
 
-#### [Stacks](https://github.com/dileeppandey/hello-interview/blob/master/Stacks.md)
+#### [Stacks](https://github.com/dileeppandey/hello-interview/tree/master/Stacks)
 
-#### [System Design](https://github.com/dileeppandey/hello-interview/blob/master/System%20Design.md)
+#### [System Design](https://github.com/dileeppandey/hello-interview/tree/master/System%20Design)
 
-#### [Trees](https://github.com/dileeppandey/hello-interview/blob/master/Trees.md)
+#### [Trees](https://github.com/dileeppandey/hello-interview/tree/master/Trees)
 
-#### [Tries](https://github.com/dileeppandey/hello-interview/blob/master/Tries.md)
+#### [Tries](https://github.com/dileeppandey/hello-interview/tree/master/Tries)
