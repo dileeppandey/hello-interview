@@ -1,10 +1,15 @@
 # Binary Tree And Binary Search Tree
 
-* Traversals using Recursion and Iteration
+Trees are hierarchical data structures with a root node and child relationships. Binary trees have at most 2 children per node. BSTs maintain sorted order: left < root < right.
+
+## Traversals using Recursion and Iteration
   * inorder
   * preorder
   * postorder
-* Maximum depth of a binary tree.
+
+## Problems
+* Maximum depth of a binary tree. [[Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)] [[Solution](MaxDepth/)] [[Thinking](MaxDepth/THINKING.md)]
+* Level Order Traversal [[Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)] [[Solution](LevelOrderTraversal/)] [[Thinking](LevelOrderTraversal/THINKING.md)]
 * Insert an element in:
   * binary tree
   * binary search tree [[Solution](BinarySearchTree/)]
