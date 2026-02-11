@@ -16,14 +16,14 @@ We aim to provide:
 The repo is organized by **topic**, then by **problem**. Each problem has its own directory containing a `README.md` and solution files in one or more languages.
 
 ```
-<Topic>/
-├── <ProblemName>/
+<topic>/
+├── <problem_name>/
 │   ├── README.md          ← problem description, complexity, links
 │   ├── solution.py
 │   ├── solution.java
 │   ├── solution.cpp
 │   └── solution.go
-└── README.md              ← category overview (list of problems)
+└── Readme.md              ← category overview (list of problems)
 ```
 
 ## How to Contribute
@@ -31,13 +31,13 @@ The repo is organized by **topic**, then by **problem**. Each problem has its ow
 ### 1. Adding a Solution in a New Language
 
 If a problem already exists but only has solutions in some languages:
-- Navigate to the problem directory (e.g., `Arrays and Strings/FourSum/`).
+- Navigate to the problem directory (e.g., `arrays_and_strings/four_sum/`).
 - Add your solution file named `solution.<ext>` (see supported extensions below).
 - Update the problem's `README.md` to add your language to the Solutions table.
 
 ### 2. Adding a New Problem
 
-- **Directory**: Create a new folder in the appropriate category using `PascalCase`, e.g., `Arrays and Strings/TwoSum/`.
+- **Directory**: Create a new folder in the appropriate category using `snake_case`, e.g., `arrays_and_strings/two_sum/`.
 - **Solution file**: Name it `solution.<ext>` (e.g., `solution.py`, `solution.java`).
 - **Problem README**: Create a `README.md` inside the problem folder using the template below.
 - **Category README**: Update the category's `Readme.md` to list the new problem with a link.

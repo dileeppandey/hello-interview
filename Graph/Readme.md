@@ -1,12 +1,11 @@
-# Graphs
+# Graph
 
-A graph is a collection of nodes (vertices) connected by edges. Graphs can be directed or undirected, weighted or unweighted. They model relationships — social networks, maps, dependencies, and more.
+Graph algorithms for traversal, shortest path, cycle detection, and connected components.
 
-## Traversal
-  * DFS [[Solution](DFS/)]
-  * BFS [[Solution](BFS/)]
-  * Compute shortest path between two nodes in a Graph.
+## Traversals
+* BFS (Breadth-First Search) [[Solution](bfs/)] [[Thinking](bfs/THINKING.md)]
+* DFS (Depth-First Search) [[Solution](dfs/)] [[Thinking](dfs/THINKING.md)]
 
 ## Problems
-* Number of Islands [[Leetcode](https://leetcode.com/problems/number-of-islands/)] [[Solution](NumberOfIslands/)] [[Thinking](NumberOfIslands/THINKING.md)]
-* Course Schedule [[Leetcode](https://leetcode.com/problems/course-schedule/)] [[Solution](CourseSchedule/)] [[Thinking](CourseSchedule/THINKING.md)]
+* Number of Islands [[Leetcode](https://leetcode.com/problems/number-of-islands/)] [[Solution](number_of_islands/)] [[Thinking](number_of_islands/THINKING.md)]
+* Course Schedule (Cycle Detection) [[Leetcode](https://leetcode.com/problems/course-schedule/)] [[Solution](course_schedule/)] [[Thinking](course_schedule/THINKING.md)]

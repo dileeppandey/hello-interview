@@ -8,23 +8,12 @@ Trees are hierarchical data structures with a root node and child relationships.
   * postorder
 
 ## Problems
-* Maximum depth of a binary tree. [[Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)] [[Solution](MaxDepth/)] [[Thinking](MaxDepth/THINKING.md)]
-* Level Order Traversal [[Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)] [[Solution](LevelOrderTraversal/)] [[Thinking](LevelOrderTraversal/THINKING.md)]
-* Insert an element in:
-  * binary tree
-  * binary search tree [[Solution](BinarySearchTree/)]
-* Delete an element from:
-  * binary tree
-  * binary search tree
-* Check if a binary tree is symmetric. [[Leetcode](https://leetcode.com/problems/symmetric-tree/)]
-* Check if Binary Tree is BST.
-* Least Common Ancestor:
-  * of a binary tree.
-  * of a binary search tree.
-* Balance a Tree:
-  * check if a binary tree is balanced.
-  * balance a given binary tree.
-  * balance a binary search tree.
-* Restore the original binary search tree if two of the nodes are swapped.
-* Construct binary tree from given inorder and preorder traversals.
-* Given a pointer to a node in a binary search tree, returns a pointer to the next node in the in-order traversal of the tree.
+* Binary Search Tree (insert/search) [[Solution](binary_search_tree/)] [[Thinking](binary_search_tree/THINKING.md)]
+* Maximum depth of a binary tree [[Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)] [[Solution](max_depth/)] [[Thinking](max_depth/THINKING.md)]
+* Level Order Traversal [[Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)] [[Solution](level_order_traversal/)] [[Thinking](level_order_traversal/THINKING.md)]
+* Check if a binary tree is symmetric [[Leetcode](https://leetcode.com/problems/symmetric-tree/)]
+* Check if Binary Tree is BST
+* Least Common Ancestor of a binary tree / BST
+* Balance a Tree
+* Restore BST if two nodes are swapped
+* Construct binary tree from inorder and preorder traversals

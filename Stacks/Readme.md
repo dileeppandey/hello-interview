@@ -1,6 +1,6 @@
 # Stacks
 
-A stack is a LIFO (Last In, First Out) data structure. It's the natural choice whenever the most recent element matters most — matching brackets, undo operations, expression evaluation, and DFS traversal.
+A stack is a LIFO (Last In, First Out) data structure. It's the natural choice for matching brackets, undo operations, and any problem where the most recent element matters.
 
-* Implement a stack such that finding minimum is O(1) operation. [[Leetcode](https://leetcode.com/problems/min-stack/)] [[Solution](MinStack/)] [[Thinking](MinStack/THINKING.md)]
-* Valid Parentheses [[Leetcode](https://leetcode.com/problems/valid-parentheses/)] [[Solution](ValidParentheses/)] [[Thinking](ValidParentheses/THINKING.md)]
+* Min Stack [[Leetcode](https://leetcode.com/problems/min-stack/)] [[Solution](min_stack/)] [[Thinking](min_stack/THINKING.md)]
+* Valid Parentheses [[Leetcode](https://leetcode.com/problems/valid-parentheses/)] [[Solution](valid_parentheses/)] [[Thinking](valid_parentheses/THINKING.md)]

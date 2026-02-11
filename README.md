@@ -12,34 +12,34 @@ We welcome contributions in **any programming language**! If you'd like to add a
 
 ## 📚 Topics
 
-#### [Arrays and Strings](Arrays%20and%20Strings/)
+#### [Arrays and Strings](arrays_and_strings/)
 
-#### [Backtracking](Backtracking/)
+#### [Backtracking](backtracking/)
 
-#### [Dynamic Programming](Dynamic%20Programming/)
+#### [Dynamic Programming](dynamic_programming/)
 
-#### [Graph](Graph/)
+#### [Graph](graph/)
 
-#### [Greedy](Greedy/)
+#### [Greedy](greedy/)
 
-#### [Hashing](Hashing/)
+#### [Hashing](hashing/)
 
-#### [Linked List](Linked%20List/)
+#### [Linked List](linked_list/)
 
-#### [Meet in the Middle](Meet%20in%20the%20Middle/)
+#### [Meet in the Middle](meet_in_the_middle/)
 
-#### [Object Oriented Design](Object%20Oriented%20Design/)
+#### [Object Oriented Design](object_oriented_design/)
 
-#### [Queues](Queues/)
+#### [Queues](queues/)
 
-#### [Recursion](Recursion/)
+#### [Recursion](recursion/)
 
-#### [Sliding Window](Sliding%20Window/)
+#### [Sliding Window](sliding_window/)
 
-#### [Stacks](Stacks/)
+#### [Stacks](stacks/)
 
-#### [System Design](System%20Design/)
+#### [System Design](system_design/)
 
-#### [Trees](Trees/)
+#### [Trees](trees/)
 
-#### [Tries](Tries/)
+#### [Tries](tries/)
