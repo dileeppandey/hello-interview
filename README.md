@@ -1,35 +1,45 @@
 # Hello, Interview!
 
-*Unique Conceptual Problems for Interviews.*
+*Unique Conceptual Problems for Interviews — Solutions in Multiple Languages.*
 
-#### [Arrays and Strings](https://github.com/dileeppandey/hello-interview/tree/master/Arrays%20and%20Strings)
+---
 
-#### [Backtracking](https://github.com/dileeppandey/hello-interview/tree/master/Backtracking)
+## 🚀 Contributing
 
-#### [Dynamic Programming](https://github.com/dileeppandey/hello-interview/tree/master/Dynamic%20Programming)
+We welcome contributions in **any programming language**! If you'd like to add a new problem or add a solution in your favorite language, please check out our [Contribution Guidelines](CONTRIBUTING.md).
 
-#### [Graph](https://github.com/dileeppandey/hello-interview/tree/master/Graph)
+---
 
-#### [Greedy](https://github.com/dileeppandey/hello-interview/tree/master/Greedy)
+## 📚 Topics
 
-#### [Hashing](https://github.com/dileeppandey/hello-interview/tree/master/Hashing)
+#### [Arrays and Strings](Arrays%20and%20Strings/)
 
-#### [Linked List](https://github.com/dileeppandey/hello-interview/tree/master/Linked%20List)
+#### [Backtracking](Backtracking/)
 
-#### [Meet in the Middle](https://github.com/dileeppandey/hello-interview/tree/master/Meet%20in%20the%20Middle)
+#### [Dynamic Programming](Dynamic%20Programming/)
 
-#### [Object Oriented Design](https://github.com/dileeppandey/hello-interview/tree/master/Object%20Oriented%20Design)
+#### [Graph](Graph/)
 
-#### [Queues](https://github.com/dileeppandey/hello-interview/tree/master/Queues)
+#### [Greedy](Greedy/)
 
-#### [Recursion](https://github.com/dileeppandey/hello-interview/tree/master/Recursion)
+#### [Hashing](Hashing/)
 
-#### [Sliding Window](https://github.com/dileeppandey/hello-interview/tree/master/Sliding%20Window)
+#### [Linked List](Linked%20List/)
 
-#### [Stacks](https://github.com/dileeppandey/hello-interview/tree/master/Stacks)
+#### [Meet in the Middle](Meet%20in%20the%20Middle/)
 
-#### [System Design](https://github.com/dileeppandey/hello-interview/tree/master/System%20Design)
+#### [Object Oriented Design](Object%20Oriented%20Design/)
 
-#### [Trees](https://github.com/dileeppandey/hello-interview/tree/master/Trees)
+#### [Queues](Queues/)
 
-#### [Tries](https://github.com/dileeppandey/hello-interview/tree/master/Tries)
+#### [Recursion](Recursion/)
+
+#### [Sliding Window](Sliding%20Window/)
+
+#### [Stacks](Stacks/)
+
+#### [System Design](System%20Design/)
+
+#### [Trees](Trees/)
+
+#### [Tries](Tries/)

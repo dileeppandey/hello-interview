@@ -1,3 +1,3 @@
 # Tries
 
-* Design a simple **Trie** that supports insert and search operation.
+* Design a simple **Trie** that supports insert and search operation. [[Solution](Trie/)]

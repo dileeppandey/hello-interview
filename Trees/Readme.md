@@ -3,15 +3,15 @@
 * Traversals using Recursion and Iteration
   * inorder
   * preorder
-  * posrorder
+  * postorder
 * Maximum depth of a binary tree.
 * Insert an element in:
   * binary tree
-  * binary search tree
+  * binary search tree [[Solution](BinarySearchTree/)]
 * Delete an element from:
   * binary tree
   * binary search tree
-* Check if a binary tree is symmetric. [[Leetcode](https://leetcode.com/problems/symmetric-tree/)] [[Solution]()]
+* Check if a binary tree is symmetric. [[Leetcode](https://leetcode.com/problems/symmetric-tree/)]
 * Check if Binary Tree is BST.
 * Least Common Ancestor:
   * of a binary tree.

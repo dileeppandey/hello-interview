@@ -1,8 +1,8 @@
 # Arrays and Strings
 
 * Maximum difference in an array:
-    * Given an unsorted array, find the maximum difference between the successive elements in its sorted form. [[Leetcode](https://leetcode.com/problems/maximum-gap/)] [[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/MaximumGap.py)]
-* Compress a given string with Run Length Encoding. [[Leetcode](https://leetcode.com/problems/string-compression/)][[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/StringCompression.py)]
+    * Given an unsorted array, find the maximum difference between the successive elements in its sorted form. [[Leetcode](https://leetcode.com/problems/maximum-gap/)] [[Solution](MaximumGap/)]
+* Compress a given string with Run Length Encoding. [[Leetcode](https://leetcode.com/problems/string-compression/)] [[Solution](StringCompression/)]
 * Find an element in a sorted array of infinite size.
 * Remove duplicates from a string. Do it in-place.
 * Add two numbers represented as array.
@@ -34,5 +34,18 @@
 * Kth-largest element 
     * in an unsorted array
     * in two sorted arrays
-* First  Missing Positive [[Leetcode](https://leetcode.com/problems/first-missing-positive/)] [[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/FirstMissingPositive.py)] 
-* Longest substring without repeating character [[Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters)] [[Solution](https://github.com/dileeppandey/hello-interview/blob/master/Arrays%20and%20Strings/LongestSubstringWithoutRepeating.py)]
+* First  Missing Positive [[Leetcode](https://leetcode.com/problems/first-missing-positive/)] [[Solution](FirstMissingPositive/)] 
+* Longest substring without repeating character [[Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters)] [[Solution](LongestSubstringWithoutRepeating/)]
+* Diagonal Traverse [[Leetcode](https://leetcode.com/problems/diagonal-traverse/)] [[Solution](DiagonalTraverse/)]
+* Equilibrium Point [[Solution](EquilibriumPoint/)]
+* Leaders in Array [[Solution](LeadersInArray/)]
+* Maximum of Subarrays [[Solution](MaximumOfSubarrays/)]
+* Maximum Sum Increasing Subsequence [[Solution](MaximumSumIncreasingSubsequence/)]
+* Maximum Sum Subarray [[Solution](MaximumSumSubarray/)]
+* Minimum Platforms [[Solution](MinimumPlatforms/)]
+* Missing Number [[Solution](MissingNumber/)]
+* Parenthesis Checker [[Solution](ParanthesisChecker/)]
+* Sort 0s 1s 2s [[Solution](Sort0s1s2s/)]
+* Subarray With Given Sum [[Solution](SubarrayWithGivenSum/)]
+* Unique Characters in String [[Solution](UniqueCharactersInString/)]
+* Four Sum [[Leetcode](https://leetcode.com/problems/4sum/)] [[Solution](FourSum/)]

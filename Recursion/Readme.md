@@ -1,3 +1,3 @@
 # Recursion
 
-* String Permutation [[Leetcode]()] [[Solution]()]
+* String Permutation [[Solution](PermutationsInString/)]
