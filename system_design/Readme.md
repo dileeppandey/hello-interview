@@ -21,5 +21,6 @@
 
 ## Questions
 
-* Design an ATM.
-* Design a Parking Lot
+* [Design an Amazon Locker](amazon_locker/README.md) [[Thinking](amazon_locker/THINKING.md)]
+* [Design an LRU Cache](lru_cache/README.md) [[Thinking](lru_cache/THINKING.md)]
+* [Design a Parking Lot](parking_lot/README.md) [[Thinking](parking_lot/THINKING.md)]
